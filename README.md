@@ -1,1 +1,2 @@
-# H1B-Visa-Case-Status-Prediction
+# CS539-Machine_Learning
+Machine learning project on H1B visa status prediction.  
